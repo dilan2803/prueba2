@@ -1,0 +1,18 @@
+https://github.com/dilan2803/prueba.git   servidor de mi repositorio
+
+ssh git@github.com:dilan2803/prueba.git
+
+crear un codio de repositorios con comandos
+echo # prueba >> README.md 
+git init 
+git add README.md 
+git commit -m "primero comprometerse" 
+git remote add origen git@github.com: dilan2803 / prueba.git
+git push origin master -u
+
+empujar un repositorio existente desde la línea de comandos 
+
+git add remoto origen git@github.com: dilan2803 / prueba.git
+ git push origin master -u
+
+
